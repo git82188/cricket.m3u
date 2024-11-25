@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLHCzr0r/53e43227fb3a4adebb1d683a707ce12b.jpg" group-title="HINDI",&tv
+http://xtv.ooo:8080/live/98267/02727/66173.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLHCzr0r/53e43227fb3a4adebb1d683a707ce12b.jpg" group-title="HINDI",And tv
+http://xtv.ooo:8080/live/98267/02727/66172.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s" group-title="SPORTS",Astro cricket
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/2494.ts
+#EXTINF:-1 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="SPORTS",Bein sports extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR4b7jFX/a83a8bb128683fec.png" group-title="SPORTS",Fox sports 501
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/4748.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw2wYyvy/87ce4926950ad9.png" group-title="SPORTS",Fox sports 503
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/4750.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",Ptv sports hd
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fSsJ57L/181d97cfcf5fcfc27.jpg" group-title="SPORTS",Star sports 1 hindi fhd
+http://extraott.com:900/live/9976612136/9725477748/400159571.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryPGk30k/8bd97436cd.jpg" group-title="SPORTS",Sky sports mix (4k)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/122416.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqj8hDQ8/f66cf8951af52.jpg" group-title="SPORTS",Us willow
+http://fortv.cc:8080/live/Gilx3/73265/41979.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqj8hDQ8/f66cf8951af52.jpg" group-title="SPORTS",Willow
+http://fortv.cc:8080/live/Gilx3/73265/58847.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNQNKLYy/a3560afe1d0bdda6.png" group-title="SPORTS",Bein sports
+http://extraott.com:900/live/9976612136/9725477748/175784.ts
